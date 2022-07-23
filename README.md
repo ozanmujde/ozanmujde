@@ -14,7 +14,7 @@ My name is Ozan. I am a senior CS student at TOBB ETU. Currently, I am working o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanmujde&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ozanmujde&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ozanmujde&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 created with https://gprm.itsvg.in/
