@@ -4,7 +4,6 @@ I'm a passionate computer scientist with a strong background in building high-pe
 Beyond software engineering, I'm pursuing a Master's in Computer Science at Bilkent University. This allows me to delve deeper into cutting-edge technologies like Cloud Computing and Deep Learning, further enhancing my ability to tackle complex software challenges.
 
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozanmujde) 
 
 <!--
