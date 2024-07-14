@@ -1,5 +1,8 @@
-### Hi there 👋
-## About Me:
+<h1 align="center">Hi there 👋, I'm Ozan MUJDE</h1>
+<h3 align="center">About Me:</h3>
+
+📫 How to reach me:  **ozanmujde@gmail.com**
+  
 I'm a passionate computer scientist with a strong background in building high-performance, scalable software using Node.js, Go, PHP, and Google Cloud Platform. My current role at Comodo allows me to leverage this expertise to contribute to various projects, from microservices architecture to cloud integration.
 Beyond software engineering, I'm pursuing a Master's in Computer Science at Bilkent University. This allows me to delve deeper into cutting-edge technologies like Cloud Computing and Deep Learning, further enhancing my ability to tackle complex software challenges.
 
