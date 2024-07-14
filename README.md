@@ -9,6 +9,8 @@ Beyond software engineering, I'm pursuing a Master's in Computer Science at Bilk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozanmujde) 
 
+**[CV_OzanMujde](./Resume_Ozan_Mujde.pdf)**
+
 <!--
 created with https://gprm.itsvg.in/
 **ozanmujde/ozanmujde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
