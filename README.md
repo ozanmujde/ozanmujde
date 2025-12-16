@@ -1,52 +1,28 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║    ██████╗ ███████╗ █████╗ ██╗    ██╗     ███╗   ███╗██╗   ██╗     ██╗██████╗ ███████╗
-║   ██╔═══██╗╚══███╔╝██╔══██╗████╗  ██║     ████╗ ████║██║   ██║     ██║██╔══██╗██╔════╝
-║   ██║   ██║  ███╔╝ ███████║██╔██╗ ██║     ██╔████╔██║██║   ██║     ██║██║  ██║█████╗  
-║   ██║   ██║ ███╔╝  ██╔══██║██║╚██╗██║     ██║╚██╔╝██║██║   ██║██   ██║██║  ██║██╔══╝  
-║   ╚██████╔╝███████╗██║  ██║██║ ╚████║     ██║ ╚═╝ ██║╚██████╔╝╚█████╔╝██████╔╝███████╗
-║    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═╝     ╚═╝ ╚═════╝  ╚════╝ ╚═════╝ ╚══════╝
-║                                                                                      ║
-║                         Software Engineer II @ Getir                                 ║
-║                    MS Computer Science @ Bilkent University                          ║
-║                   Deep Learning & Bioinformatics Researcher                          ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
-## $ whoami
+# Ozan Mujde
 
-```bash
-ozan@ankara:~$ cat profile
-Software Engineer II @ Getir
-MS Student @ Bilkent University (2023-2026)
-Research: Deep Learning Applications in Bioinformatics
-Location: Ankara, Turkey
-```
+Software Engineer II @ Getir  
+MS Computer Science @ Bilkent University (2023-2026)  
+Deep Learning & Bioinformatics Researcher
 
-## $ tech_stack
+## About Me
 
-```
-Languages: Python, JavaScript, TypeScript, Go, Java
-Backend:   Node.js, NestJS, Kafka
-Cloud:     GCP, AWS, Kubernetes, Docker  
-AI/ML:     TensorFlow, PyTorch, NLP, Computer Vision
-Database:  MongoDB, PostgreSQL, BigTable
-```
+I'm a software engineer based in Ankara, Turkey, working at Getir building scalable backend services that handle millions of events per day. I'm also pursuing my Master's degree in Computer Science at Bilkent University, focusing on deep learning applications in bioinformatics.
 
-## $ current_work
+## Tech Stack
 
-```
-[Getir]      Building scalable backend services, millions of events/day
-[Cicek Lab]  Deep Learning applications for bioinformatics problems
-```
+**Languages:** Python, JavaScript, TypeScript, Go, Java  
+**Backend:** Node.js, NestJS, Kafka  
+**Cloud:** GCP, AWS, Kubernetes, Docker  
+**AI/ML:** TensorFlow, PyTorch, NLP, Computer Vision  
+**Database:** MongoDB, PostgreSQL, BigTable
 
-## $ contact
+## Current Work
 
-```json
-{
-  "email": "ozanmujde@gmail.com",
-  "linkedin": "linkedin.com/in/ozanmujde", 
-  "location": "Ankara, Turkey"
-}
-```
+- **Getir:** Building scalable backend services, millions of events/day
+- **Cicek Lab:** Deep Learning applications for bioinformatics problems
+
+## Contact
+
+📧 Email: ozanmujde@gmail.com  
+💼 LinkedIn: [linkedin.com/in/ozanmujde](https://linkedin.com/in/ozanmujde)  
+📍 Location: Ankara, Turkey
